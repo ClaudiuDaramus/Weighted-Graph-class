@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521586629 source:d:\google drive\college\poo\tema17-graf_ponderat\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
